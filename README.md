@@ -1,5 +1,6 @@
 # DecathlonBot
-Checks periodically if a item in Decathlon has stock, and sends a mesasage through Telegram if successful. Written entirely with Python.
+
+Checks periodically if a item in Decathlon has stock, and sends a mesasage through Telegram if successful. Written entirely with Python, through the *requests* library (for web scrapping).
 
 # Why
 
